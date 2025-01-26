@@ -69,4 +69,4 @@ We welcome contributions to enhance the system. Feel free to submit pull request
 This project is licensed under the MIT License. See the `LICENSE` file for details.
  
 ## Contact
-For inquiries or collaboration, please contact **Seongjun Cho** at [your email address].
+For inquiries or collaboration, please contact Kyeongseo Choi and Seongjun Cho at kyeongstudy@tamu.edu
