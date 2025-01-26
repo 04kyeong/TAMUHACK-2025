@@ -1,7 +1,10 @@
 # TAMUHACK-2025
 
 # Smart Trash Bin System 
- 
+ ![Image](https://github.com/user-attachments/assets/2bc04c55-8c29-4b50-a8d6-410ab4ad515c)
+
+![Image](https://github.com/user-attachments/assets/36a91aff-9ff6-4c8a-9f9f-62b3c7cae2f7)
+
 ## Inspiration
 The idea stemmed from a common issue in public spaces: overflowing trash bins that create unsanitary environments and inefficiency in waste management. We wanted to create a solution that not only notifies janitors when bins are full but also provides valuable data to improve cleaning schedules and resource allocation.
 
