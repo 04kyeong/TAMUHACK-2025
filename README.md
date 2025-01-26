@@ -2,8 +2,13 @@
 
 # Smart Trash Bin System 
  ![Image](https://github.com/user-attachments/assets/2bc04c55-8c29-4b50-a8d6-410ab4ad515c)
-
+Demo photo of actual trash bin with ststem.
 ![Image](https://github.com/user-attachments/assets/36a91aff-9ff6-4c8a-9f9f-62b3c7cae2f7)
+Website showing the 5 recent data in chart and graph.
+
+# Demo Video and Presentation Slides 
+Video: https://youtu.be/Ypi7wZAzr6w?si=U3QxXhpTmEYR5fR9
+Slides: https://docs.google.com/presentation/d/1Q1CUxJG032nCj6oHM8BnSUK4z6yS-Vd81TZxGpLFf4g/edit?usp=sharing
 
 ## Inspiration
 The idea stemmed from a common issue in public spaces: overflowing trash bins that create unsanitary environments and inefficiency in waste management. We wanted to create a solution that not only notifies janitors when bins are full but also provides valuable data to improve cleaning schedules and resource allocation.
@@ -25,6 +30,10 @@ We learned the importance of balancing functionality and simplicity when buildin
 
 ## What's next for Smart Trash Bin System
 The next step is to integrate a wireless communication module, such as Wi-Fi or Bluetooth, to send real-time data to a centralized dashboard for remote monitoring. We also aim to expand the system's capabilities by adding features like predictive analytics to anticipate when bins will likely be full based on historical trends.
- 
+
+## Resources
+https://howtomechatronics.com/tutorials/arduino/ultrasonic-sensor-hc-sr04/
+Used HC-SR04 sensor distance calculation formula from this website. 
+
 ## Contact
 For inquiries or collaboration, please contact Kyeongseo Choi and Seongjun Cho at kyeongstudy@tamu.edu
